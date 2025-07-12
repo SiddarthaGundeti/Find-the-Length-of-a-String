@@ -1,5 +1,5 @@
 # Find-the-Length-of-a-String
-Tutorial: Find the Length of a String
+Find the Length of a String
 Let's learn how to write a Python program to find the length of a string step by step.
 
 Step 1: Understand the problem
